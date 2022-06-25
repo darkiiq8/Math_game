@@ -1,0 +1,3 @@
+
+[console_scripts]
+ut=ut.cli:cli
